@@ -7,7 +7,7 @@ A simple Jupyter notebook for running the current state-of-the-art (SOTA) open-s
 ---
 
 ## Overview
-This project provides a  practical setup to run Gemma 31B (instruction-tuned) using vLLM for fast and efficient inference.
+This project provides a  practical setup to run Gemma 4 31B (instruction-tuned) using vLLM for fast and efficient inference.
 
 ---
 
