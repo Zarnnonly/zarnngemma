@@ -13,3 +13,10 @@ This project provides a  practical setup to run Gemma 31B (instruction-tuned) us
 - NVIDIA GPU (recommended: A100 80GB or similar with minimun 80GB VRAM)
 - CUDA-compatible environment
 - Python 3.10+
+
+---
+
+## Attachments
+![Resource Usage](attachment/ResourceUsage.png)
+![Load](attachment/Load.png)
+![Gemma 31B inference speed](attachment/Speed.png)
