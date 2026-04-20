@@ -16,10 +16,8 @@ This project provides a  practical setup to run Gemma 31B (instruction-tuned) us
 
 ---
 
-## Attachments
+## Attachment
+Resource usage and inference speed during model loading and generation.
 ![Resource Usage](attachment/ResourceUsage.png)
-*Resource yang digunakan Gemma 31B*
 ![Load](attachment/Load.png)
-*Proses Loading Model.*
 ![Gemma 31B inference speed](attachment/Speed.png)
-*Inference speed.*
