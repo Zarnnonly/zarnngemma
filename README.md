@@ -2,6 +2,8 @@
 
 A simple Jupyter notebook for running the current state-of-the-art (SOTA) open-source large language model using vLLM.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zarnnonly/zarnngemma/blob/main/ZarnnGemma.ipynb)
+
 ---
 
 ## Overview
